@@ -12,7 +12,7 @@ namespace Calculator.Services
     {
         HttpClient _client;
         JsonSerializerOptions _serializerOptions;
-        static string apiUrl = "http://3.6.127.17:8080/";
+        static string apiUrl = "http://3.6.127.17:8080/math/";
         public TestQuestionModel apiQuestion { get; private set; }
 
         public TestAPIService()
