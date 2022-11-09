@@ -1,1 +1,82 @@
-
+[
+  {
+    "questionNumber": 0,
+    "questionText": "49 + 56 = ?",
+    "optionOne": "103",
+    "optionTwo": "105",
+    "optionThree": "102",
+    "correctOptionValue": "105"
+  },
+  {
+    "questionNumber": 1,
+    "questionText": "34 * 87 = ?",
+    "optionOne": "2958",
+    "optionTwo": "2858",
+    "optionThree": "2950",
+    "correctOptionValue": "2958"
+  },
+  {
+    "questionNumber": 2,
+    "questionText": "24 * 75 = ?",
+    "optionOne": "1900",
+    "optionTwo": "1850",
+    "optionThree": "1800",
+    "correctOptionValue": "1800"
+  },
+  {
+    "questionNumber": 3,
+    "questionText": "456 * 789 = ?",
+    "optionOne": "359784",
+    "optionTwo": "357984",
+    "optionThree": "359754",
+    "correctOptionValue": "359784"
+  },
+  {
+    "questionNumber": 4,
+    "questionText": "99 * 99 = ?",
+    "optionOne": "9999",
+    "optionTwo": "9801",
+    "optionThree": "9810",
+    "correctOptionValue": "9801"
+  },
+  {
+    "questionNumber": 5,
+    "questionText": "53 * 86 = ?",
+    "optionOne": "4558",
+    "optionTwo": "4858",
+    "optionThree": "4588",
+    "correctOptionValue": "4558"
+  },
+  {
+    "questionNumber": 6,
+    "questionText": "42 * 15 = ?",
+    "optionOne": "632",
+    "optionTwo": "630",
+    "optionThree": "620",
+    "correctOptionValue": "630"
+  },
+  {
+    "questionNumber": 7,
+    "questionText": "74 + 45 = ?",
+    "optionOne": "120",
+    "optionTwo": "119",
+    "optionThree": "111",
+    "correctOptionValue": "119"
+  },
+  {
+    "questionNumber": 8,
+    "questionText": "102 * 677 = ?",
+    "optionOne": "69054",
+    "optionTwo": "68054",
+    "optionThree": "69054",
+    "correctOptionValue": "69054"
+  },
+  {
+    "questionNumber": 9,
+    "questionText": "23 + 93 = ?",
+    "optionOne": "119",
+    "optionTwo": "114",
+    "optionThree": "116",
+    "correctOptionValue": "116"
+  }
+]
