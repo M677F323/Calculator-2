@@ -39,12 +39,6 @@ namespace Calculator.Services
                     apiQuestion = JsonSerializer.Deserialize<TestQuestionModel>(content, _serializerOptions);
                 }
             }
-            catch (Exception ex)
-            {
-                Console.WriteLine(@"\tERROR {0}", ex.Message);
-            }
 
-            return apiQuestion;
-        }
     }
 }
